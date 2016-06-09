@@ -1,6 +1,8 @@
 
 Quick hack of a project used to rotate AWS keys via a console.
 
+Inspired by my love for rotisserie chicken. Rotate ~chicken~ keys rotate!
+
 Some quick links for documentation:
 
 http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#Using_RotateAccessKey
