@@ -1,7 +1,7 @@
 
 Quick hack of a project used to rotate AWS keys via a console.
 
-Inspired by my love for rotisserie chicken. Rotate ~chicken~ keys rotate!
+Inspired by my love for rotisserie chicken. Rotate ~~chicken~~ keys rotate!
 
 Some quick links for documentation:
 
