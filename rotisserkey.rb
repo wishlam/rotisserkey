@@ -88,6 +88,6 @@ else
   puts
   puts "This script has detected that you have two AWS API keys, which is the limit. We can't rotate keys.".red
   puts
-  puts "You need to remove one through the AWs console.".red
+  puts "You need to remove one through the AWS console.".red
   puts
 end
