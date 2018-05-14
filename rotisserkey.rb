@@ -11,7 +11,7 @@ iam = Aws::IAM::Client.new
 keys = iam.list_access_keys
 
 # Confirm only one key
-if keys.access_key_metadata.count == 1 
+if keys.access_key_metadata.count == 1
   puts
   puts "This ruby script rotates AWS API keys."
   puts
